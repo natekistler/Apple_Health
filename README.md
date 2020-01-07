@@ -1,5 +1,5 @@
 # Apple_Health
-Collection to code to parse and analyze apple health data
+Collection of Python3 code to parse and analyze apple health data
 
 # Data Format
 Data is exported from apple health in an XML format. Details on how to export from the apple health app are located here: https://www.idownloadblog.com/2015/06/10/how-to-export-import-health-data/
