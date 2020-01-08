@@ -6,3 +6,5 @@ Data is exported from apple health in an XML format. Details on how to export fr
 
 # Files
 XMLtoCSV.py coverts the export.xml file (export file from apple health apple) to a CSV file in a directory entitled 'XMLtoCSV'
+
+HeartRate_DayofweekViolin takes heart rate data from CSV file created from XMLtoCSV.py and creates violin plots categorized by day the day of the week.
